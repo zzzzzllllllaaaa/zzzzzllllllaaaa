@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3zh/3zh/","tags":["3zh","数字花园","主页","3zh发布平台","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/3zh/3zh/","tags":["3zh","数字花园","主页","3zh发布平台","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
